@@ -1,4 +1,7 @@
 body{
 
-	background-color: aquamarine;
+	background-color: background: url(https://www.fecc.online/images/CONVENIOS/exito.jpg);
+  background-size:100% 100%;
+  background-attachment: fixed;
+  overflow: hidden;
 }
